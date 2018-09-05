@@ -2,12 +2,12 @@
 
 Création d'une application de gestion client/stock;
 
-# Installation :
+### Installation :
 
 - Installer Laravel,
 - Créer un repo github
 
-#  Migration :
+###  Migration :
 
 - Relier votre BDD avec l'application,
 
@@ -23,7 +23,7 @@ Qui contiendras: id, name
 - Faire une migration pour générer automatiquement la table "products_belong_groups",
 Qui contiendras: fk_group, fk_product
 
-# Client :
+### Client :
 
 - Faire une route get '/customers' qui fait appelle au controller Customers et à la méthode 'getAllCustomers',
 
