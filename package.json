@@ -1,0 +1,28 @@
+{
+  "name": "starter_laravel",
+  "version": "1.0.0",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "jquery": "^3.3.1",
+    "materialize": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippe-jonathan/laravel-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philippe-jonathan/laravel-starter/issues"
+  },
+  "homepage": "https://github.com/philippe-jonathan/laravel-starter#readme",
+  "description": ""
+}
